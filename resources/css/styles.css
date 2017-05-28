@@ -1,0 +1,10 @@
+h1 {
+  font-size: 70px;
+  font-family: helvetica;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+.header {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png)
+}
