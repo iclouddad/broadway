@@ -8,3 +8,40 @@ h1 {
 .header {
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png)
 }
+
+li,
+a
+{
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+h2{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  }
+body{
+  text-align: center;
+}
+h3{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+p {
+  font-family: Helvetica;
+  font-size: 14px;
+}
+.design {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  color: white;
+}
+.footer{
+  font-family: helvetica;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
